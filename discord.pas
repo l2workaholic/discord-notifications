@@ -7,7 +7,7 @@ procedure SendWebhook(Msg:WideString);
 
 implementation
 
-const WebhookURL = 'https://discord.com/api/webhooks/1361433525093531770/ovf3nqrn7SlenDmWjTizkbLddxM8vD7_U4PWVZOEkS6ve8TKv1iELB93Jx32YT6-F9b5';
+const WebhookURL = 'seu web hook aqui';
 
 procedure SendWebhook(Msg:WideString);
 var
